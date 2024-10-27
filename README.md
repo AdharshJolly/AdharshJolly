@@ -1,4 +1,4 @@
-# Hi 👋 My name is Adharsh Jolly
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Adharsh Jolly
 
 ## A thinking AIML Student
 
@@ -15,22 +15,16 @@ Prioritizing the accessibility and maintainability of codebase is integral to my
 
 ### Skills
 
-<p align="left" >
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,tailwind,c,css,express,firebase,github,html,java,js,ts,nextjs,react,matlab,mongodb,nodejs,npm,postman,python,replit,aws,azure,gcp" />
+  </a>
 </p>
 
 ### Socials
 
 <p align="left" >
 <a href="https://adharshjolly-portfolio.vercel.app" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/socials/portfolio.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/AdharshJolly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/socials/github.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/adharsh-jolly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/socials/linkedin.svg" width="32" height="32" /></a>
 
 ### <!-- Badges  --><b>My GitHub Stats</b>
