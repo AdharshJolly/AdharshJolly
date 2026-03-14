@@ -1,47 +1,85 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Adharsh Jolly
+# Hi, I'm Adharsh Jolly <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="64" alt="wave" />
 
-## A thinking AIML Student
+## AI/ML student and full-stack developer building practical systems with TypeScript and Next.js
 
-immersed in diverse web technologies since 2020, with a primary focus on HTML, CSS, JavaScript and TypeScript. Staying updated with industry trends is a constant commitment and I possess substantial expertise in React, MongoDB and Next.
+I have been building web products since 2020, with a focus on clean architecture, accessibility, and maintainable code. I enjoy solving real workflow problems for teams, events, and student communities.
 
-Prioritizing the accessibility and maintainability of codebase is integral to my coding philosophy.
+- 🌍 Based in India
+- 📬 Reach me at: [adharshjolly23@gmail.com](mailto:adharshjolly23@gmail.com)
+- 🤝 Open to internships and collaborations in full-stack web and AI-assisted products
+<!-- - 🖥 Portfolio: [adharshjolly-portfolio.vercel.app](http://adharshjolly-portfolio.vercel.app) -->
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [AdharshJolly](http://adharshjolly-portfolio.vercel.app)
-* 📬  You can contact me at [ajcodesofficial@gmail.com](mailto:ajcodesofficial@gmail.com)
-* 🧠  I'm currently improving my Typescript skills
-* 🤝  I'm open to collaborating on JavaScript and TypeScript projects
-* ⚡  love books and music and meeting.
+### Impact Snapshot
 
-### Skills
+- 📈 1,000+ contributions in the last year
+- 🚀 Active across 25+ public repositories
+- 🤝 Frequent collaborator on team repositories and merged pull requests
+- 🛠 Built projects across TypeScript, JavaScript, Java, Python, and C
+
+<!-- ### Featured Projects
+
+1. **Inventory Management System**
+   Full-stack inventory platform for logistics, warehouse, and procurement workflows.
+   Stack: TypeScript, modern web stack
+   Repo: [inventory-management-system](https://github.com/AdharshJolly/inventory-management-system)
+
+2. **Bank Managing System**
+   Java console banking app with layered MVC-style architecture, dual portals, and role-based access control.
+   Stack: Java
+   Repo: [Bank-Managing-System](https://github.com/AdharshJolly/Bank-Managing-System)
+
+3. **CryptoGuard**
+   Blockchain forensics and regtech-focused platform concept for suspicious wallet activity analysis.
+   Stack: TypeScript
+   Repo: [CryptoGuard](https://github.com/AdharshJolly/CryptoGuard) -->
+
+### Open Source and Collaboration
+
+- Contributed actively to collaborative repositories, including AI-focused team projects.
+- Comfortable working through PR-based workflows, reviews, and iterative delivery.
+- Interested in contributing to impactful open-source projects where engineering quality matters.
+
+### Current Focus
+
+- 🧠 Deepening TypeScript, backend design, and scalable API patterns
+- ⚙ Building production-style full-stack apps with Next.js and data-driven features
+- 🔍 Exploring AI integration patterns in practical web products
+
+### Technical Focus
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Express, MongoDB
+- **Programming:** JavaScript, TypeScript, Java, Python, C
+
+### Core Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,tailwind,c,css,express,firebase,github,html,java,js,ts,nextjs,react,matlab,mongodb,nodejs,npm,postman,python,replit,aws,azure,gcp" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,java,python,c,git,github,tailwind,aws" alt="Core tech stack" />
   </a>
 </p>
 
-### Socials
+### GitHub Stats
 
-<p align="left" >
-<a href="https://adharshjolly-portfolio.vercel.app" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/socials/portfolio.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/adharsh-jolly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-### <!-- Badges  --><b>My GitHub Stats</b>
-
-<!-- <a href="http://www.github.com/AdharshJolly">
-<img src="https://github-readme-stats.vercel.app/api?username=AdharshJolly&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AdharshJolly's GitHub stats" />
+<a href="https://github.com/AdharshJolly">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdharshJolly&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub streak" />
+</a>
+<br />
+<!-- <a href="https://github.com/AdharshJolly" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdharshJolly&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top languages" />
 </a> -->
-<a href="http://www.github.com/AdharshJolly">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AdharshJolly&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-</br>
-<a href="https://github.com/AdharshJolly" align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdharshJolly&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
 
+### Connect
 
---- 
+<p align="left">
+  <!-- <a href="https://adharshjolly-portfolio.vercel.app" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/socials/portfolio.svg" width="32" height="32" alt="Portfolio" />
+  </a> -->
+  <a href="https://www.linkedin.com/in/adharsh-jolly" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/AdharshJolly/AdharshJolly/main/assets/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+</p>
 
-<!-- ### Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/AdharshJolly/count.svg) -->
+---
+
+If you are hiring for an internship or looking for a contributor on a full-stack/AI project, I would love to connect.
