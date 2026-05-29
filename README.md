@@ -33,12 +33,12 @@ I enjoy shipping clean interfaces, reliable backend flows, and collaborative pro
 - Exploring practical AI integration in web products
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdharshJolly&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" width="45%" alt="GitHub stats" />
+  <img src="https://gh-readme-stats.vercel.app/api?username=AdharshJolly&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" width="45%" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdharshJolly&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdharshJolly&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="42%" alt="Top languages" />
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AdharshJolly&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="42%" alt="Top languages" />
 </p>
 
 ## Tech Stack
@@ -55,16 +55,16 @@ Shortlist of projects I want visitors and recruiters to see first.
 
 <p align="center">
   <a href="https://github.com/AdharshJolly/inventory-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=inventory-management-system&theme=tokyonight&hide_border=true&border_radius=12" alt="inventory-management-system" />
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=inventory-management-system&theme=tokyonight&hide_border=true&border_radius=12" alt="inventory-management-system" />
   </a>
   <a href="https://github.com/AdharshJolly/Bank-Managing-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=Bank-Managing-System&theme=tokyonight&hide_border=true&border_radius=12" alt="Bank-Managing-System" />
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=Bank-Managing-System&theme=tokyonight&hide_border=true&border_radius=12" alt="Bank-Managing-System" />
   </a>
   <a href="https://github.com/AdharshJolly/CryptoGuard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=CryptoGuard&theme=tokyonight&hide_border=true&border_radius=12" alt="CryptoGuard" />
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=CryptoGuard&theme=tokyonight&hide_border=true&border_radius=12" alt="CryptoGuard" />
   </a>
   <a href="https://github.com/AdharshJolly/HoneyPot-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=HoneyPot-Agent&theme=tokyonight&hide_border=true&border_radius=12" alt="HoneyPot-Agent" />
+    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=HoneyPot-Agent&theme=tokyonight&hide_border=true&border_radius=12" alt="HoneyPot-Agent" />
   </a>
 </p>
 
