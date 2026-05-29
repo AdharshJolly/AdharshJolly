@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AdharshJolly?tab=followers"><img src="https://img.shields.io/github/followers/AdharshJolly?style=for-the-badge&logo=github&label=Followers&color=0ea5e9" alt="Followers" /></a>
-  <a href="https://github.com/AdharshJolly?tab=repositories"><img src="https://img.shields.io/badge/Repos-27%2B-06b6d4?style=for-the-badge" alt="Repositories" /></a>
+  <a href="https://github.com/AdharshJolly?tab=followers"><img src="https://img.shields.io/github/followers/AdharshJolly?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0ea5e9&cacheSeconds=3600" alt="Followers" /></a>
+  <a href="https://github.com/AdharshJolly?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdharshJolly&query=public_repos&label=Repos&color=06b6d4&style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
   <a href="mailto:adharshjolly23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
