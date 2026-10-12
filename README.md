@@ -1,78 +1,36 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:38bdf8&height=240&section=header&text=ADHARSH%20JOLLY&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20STUDENT%20%7C%20FULL-STACK%20DEVELOPER&descAlignY=58&descSize=18" alt="Header banner" />
+  <img src="assets/hero.svg?v=2" alt="Adharsh Jolly — AI/ML engineer, full-stack developer, based in Bengaluru, India" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1400&color=38BDF8&center=true&vCenter=true&width=760&lines=TypeScript+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+practical+full-stack+products" alt="Typing intro" />
+  <img src="assets/about-life.svg?v=2" alt="What I do: agentic AI, applied ML and vision, full-stack products, community leadership. Off the keyboard: movies, chess, travel." width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/AdharshJolly?tab=followers"><img src="https://img.shields.io/github/followers/AdharshJolly?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0ea5e9&cacheSeconds=3600" alt="Followers" /></a>
-  <a href="https://github.com/AdharshJolly?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAdharshJolly&query=public_repos&label=Repos&color=06b6d4&style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
-  <a href="mailto:adharshjolly23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <!-- <a href="http://adharshjolly-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a> -->
-  <a href="https://www.linkedin.com/in/adharsh-jolly"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-## About Me
-
-AI/ML student and full-stack developer focused on building practical, maintainable products.
-I enjoy shipping clean interfaces, reliable backend flows, and collaborative project work.
-
-- Based in India
-- Strongest stack: TypeScript, Next.js, Node.js, MongoDB
-- Active in team repositories, PR-based development, and iterative delivery
-
-## Current Focus
-
-- Building production-style full-stack apps
-- Improving TypeScript depth and backend design
-- Exploring practical AI integration in web products
-
-<p align="center">
-  <img src="https://gh-readme-stats.vercel.app/api?username=AdharshJolly&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github" width="45%" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdharshJolly&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=AdharshJolly&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="42%" alt="Top languages" />
-</p>
-
-## Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,java,python,c,git,github,tailwind,aws&perline=8" alt="Tech stack" />
-  </a>
+  <img src="assets/stack.svg?v=3" alt="Tech stack: Python, PyTorch, FastAPI, Java, C, TypeScript, JavaScript, React, Next.js, Tailwind CSS, React Native, Node.js, Express, MongoDB, AWS, Git" width="100%" />
 </p>
 
 ## Featured Projects
 
-Shortlist of projects I want visitors and recruiters to see first.
+| Project | What it does | Stack | Links |
+| --- | --- | --- | --- |
+| **Sarvam** | Autonomous research agent. Plans evidence, gathers sources, writes a structured report where every finding traces to a stored passage, and says so when evidence is insufficient. | Python | [Code](https://github.com/AdharshJolly/Sarvam) |
+| **CityShield-AI** | Real-time CCTV analysis that flags urban hazards at the edge for public safety. | Python | [Code](https://github.com/AdharshJolly/CityShield-AI) |
+| **Academix** | Student hub. AI reads college notices, sends Telegram reminders and syncs deadlines to Google Calendar. | TypeScript | [Code](https://github.com/AdharshJolly/Academix) · [Live](https://academix-os.vercel.app/) |
+| **DataSim-Labs** | Synthetic dataset builder. | Python | [Code](https://github.com/AdharshJolly/DataSim-Labs) · [Live](https://data-sim-labs.vercel.app) |
+| **HoneyPot-Agent** | FastAPI service that engages scammers and extracts intelligence. | Python, FastAPI | [Code](https://github.com/AdharshJolly/HoneyPot-Agent) |
+| **CryptoGuard** | AI anti-money-laundering platform. Blockchain forensics that flags suspicious wallets with an ensemble of 5 ML models (CatBoost, LightGBM, XGBoost, Random Forest, Logistic Regression), Gemini-powered explanations, and a Next.js dashboard with transaction graphs, 3D topology visualisation and case management. In development. | TypeScript, Python, Next.js, Flask | [Code](https://github.com/AdharshJolly/CryptoGuard) |
 
 <p align="center">
-  <a href="https://github.com/AdharshJolly/inventory-management-system">
-    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=inventory-management-system&theme=tokyonight&hide_border=true&border_radius=12" alt="inventory-management-system" />
-  </a>
-  <a href="https://github.com/AdharshJolly/Bank-Managing-System">
-    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=Bank-Managing-System&theme=tokyonight&hide_border=true&border_radius=12" alt="Bank-Managing-System" />
-  </a>
-  <a href="https://github.com/AdharshJolly/CryptoGuard">
-    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=CryptoGuard&theme=tokyonight&hide_border=true&border_radius=12" alt="CryptoGuard" />
-  </a>
-  <a href="https://github.com/AdharshJolly/HoneyPot-Agent">
-    <img src="https://gh-readme-stats.vercel.app/api/pin/?username=AdharshJolly&repo=HoneyPot-Agent&theme=tokyonight&hide_border=true&border_radius=12" alt="HoneyPot-Agent" />
-  </a>
+  <img src="assets/id-dashboard.svg?v=2" alt="ID card dashboard. Live GitHub numbers (contributions, public repos, followers, top languages), and featured repos." width="100%" />
 </p>
 
-## Open To
-
-- Internship opportunities in full-stack or AI-assisted product development
-- Collaboration on JavaScript/TypeScript projects
+<p align="center">
+  <img src="assets/connect.svg?v=2" alt="Connect with Adharsh Jolly on LinkedIn, GitHub or email (adharshjolly23@gmail.com)" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:38bdf8&height=120&section=footer&flip=true" alt="Footer banner" />
+  <a href="https://www.linkedin.com/in/adharsh-jolly"><b>LinkedIn</b> · in/adharsh-jolly</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/AdharshJolly"><b>GitHub</b> · @AdharshJolly</a>
 </p>
