@@ -22,7 +22,7 @@
 | **CryptoGuard** | AI anti-money-laundering platform. Blockchain forensics that flags suspicious wallets with an ensemble of 5 ML models (CatBoost, LightGBM, XGBoost, Random Forest, Logistic Regression), Gemini-powered explanations, and a Next.js dashboard with transaction graphs, 3D topology visualisation and case management. In development. | TypeScript, Python, Next.js, Flask | [Code](https://github.com/AdharshJolly/CryptoGuard) |
 
 <p align="center">
-  <img src="assets/id-dashboard.svg?v=2" alt="ID card dashboard. Live GitHub numbers (contributions, public repos, followers, top languages), and featured repos." width="100%" />
+  <img src="assets/id-dashboard.svg?v=2026101219" alt="ID card dashboard. Live GitHub numbers (contributions, public repos, followers, top languages), and featured repos." width="100%" />
 </p>
 
 <p align="center">
