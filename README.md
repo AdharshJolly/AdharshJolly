@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/AdharshJolly?tab=repositories">
-    <img src="assets/id-dashboard.svg?v=2026103010" alt="ID card dashboard. Live GitHub numbers (contributions, public repos, followers, top languages), and featured repos." width="100%" />
+    <img src="assets/id-dashboard.svg?v=2026103109" alt="ID card dashboard. Live GitHub numbers (contributions, public repos, followers, top languages), and featured repos." width="100%" />
   </a>
 </p>
 
